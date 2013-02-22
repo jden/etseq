@@ -1,7 +1,7 @@
 # etseq
 classical synchrony. etsequitur.
 
-##
+## installation
 
     $ npm install etsqeq
 
