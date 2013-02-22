@@ -1,0 +1,18 @@
+{
+  "name": "etseq",
+  "version": "1.0.0",
+  "description": "classical synchrony",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jden/etseq.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "MIT"
+}
