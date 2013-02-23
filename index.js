@@ -10,7 +10,7 @@ function etsequitur(actiones) {
   }
 
   var imprimitur = actiones.shift()
-  return actions.reduce(function (praetor, sequitur) {
+  return actiones.reduce(function (praetor, sequitur) {
     return praetor.then(function () {
       if (typeof sequitur === 'function') {
         return sequitur()
